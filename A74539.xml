@@ -1,0 +1,201 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>An ordinance for the further encouragement of the adventurers for lands in Ireland, and of the souldiers and other planters there. Fryday June 23. 1654. Ordered by his Highness the Lord Protector and his council, that this ordinance be forthwith printed and published, Henry Scobell, Clerk of the Council.</title>
+            <title>Orders in Council. 1654-06-23.</title>
+            <author>England and Wales. Lord Protector (1653-1658 : O. Cromwell)</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1654</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 21 KB of XML-encoded text transcribed from 8 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A74539</idno>
+            <idno type="STC">Thomason E1064_20</idno>
+            <idno type="STC">ESTC R210246</idno>
+            <idno type="EEBO-CITATION">99869061</idno>
+            <idno type="PROQUEST">99869061</idno>
+            <idno type="VID">169220</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A74539)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 169220)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 159:E1064[20])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>An ordinance for the further encouragement of the adventurers for lands in Ireland, and of the souldiers and other planters there. Fryday June 23. 1654. Ordered by his Highness the Lord Protector and his council, that this ordinance be forthwith printed and published, Henry Scobell, Clerk of the Council.</title>
+                  <title>Orders in Council. 1654-06-23.</title>
+                  <author>England and Wales. Lord Protector (1653-1658 : O. Cromwell)</author>
+                  <author>England and Wales. Council of State. aut</author>
+               </titleStmt>
+               <extent>[2], 415-427, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>printed by William du-Gard and Henry Hills, printers to His Highness the Lord Protector,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1654.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>The final leaf contains an order to print.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Great Britain --  History --  Commonwealth and Protectorate, 1649-1660 --  Early works to 1800.</term>
+               <term>Ireland --  History --  1649-1660 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-04</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-04</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-06</date>
+            <label>Ali Jakobson</label>Sampled and proofread</change>
+         <change>
+            <date>2010-06</date>
+            <label>Ali Jakobson</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:169220:1" rendition="simple:additions"/>
+            <p>AN ORDINANCE For the further Encouragement of the ADVENTURERS FOR Lands in Ireland, And of the SOULDIERS and other PLANTERS there.</p>
+            <p>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="license">
+                        <opener>
+                           <date>
+                              <hi>Fryday June</hi> 23. 1654.</date>
+                        </opener>
+                        <p>ORdered by his Highneſs the Lord Protector and His Council, That this Ordinance be forthwith Printed and Publiſhed,</p>
+                        <closer>
+                           <signed>
+                              <hi>Henry Scobell,</hi> Clerk of the Council.</signed>
+                        </closer>
+                     </div>
+                  </body>
+               </floatingText>
+            </p>
+            <p>
+               <hi>London,</hi> Printed by <hi>William du-Gard</hi> and <hi>Henry Hills,</hi> Printers to His Highneſs the Lord Protector, 1654.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:169220:2"/>
+            <pb n="415" facs="tcp:169220:2"/>
+            <head>AN ORDINANCE For the further Encouragement of the ADVENTVRERS FOR Lands in Ireland, And of the SOULDIERS and other PLANTERS there.</head>
+            <p>
+               <seg rend="decorInit">H</seg>Is Highneſs the Lord Protector of the Common-wealth of <hi>England, Scotland</hi> and <hi>Ireland,</hi> and the Domi<g ref="char:EOLhyphen"/>nions thereunto belonging, taking into conſideration how much the Honour and Safety of this Common-wealth is concerned in the ſpeedy ſetling of <hi>Ireland;</hi> For the further
+<pb n="416" facs="tcp:169220:3"/>Encouragement of the Adventurers for Lands in <hi>Ireland,</hi> and of the Souldiery of the Army, and late reduced Forces there in their Plantations, And for the better eaſe of all the Proprietors of Lands, and all other the Inhabitants of <hi>Ireland,</hi> Doth Ordain, and be it Ordained by His Highneſs the Lord Pro<g ref="char:EOLhyphen"/>tector, by and with the advice and conſent of His Council, That from and after the four and twentieth day of <hi>June</hi> one thouſand ſix hundred fifty and four, for and during the ſpace of five years, from thence next enſuing, there ſhall be Taxed, Aſſeſſed and Levyed, upon all the Counties, Towns and Places in <hi>Ireland,</hi> and all the Eſtates reall and perſo<g ref="char:EOLhyphen"/>nall therein, the ſeverall Summs and pro<g ref="char:EOLhyphen"/>portions hereafter mentioned, and no more; That is to ſay, For two years, to commence the four and twentieth day of <hi>June</hi> one thou<g ref="char:EOLhyphen"/>ſand ſix hundred fifty and four, and ending the four and twentieth of <hi>June</hi> one thouſand ſix hundred fifty and ſix, Ten thouſand pounds by the Moneth, for every Moneth during the ſaid Two years.</p>
+            <p>For one year commencing the four and twentieth day of <hi>June</hi> one thouſand ſix hundred fifty and ſix, and ending the four and twenti<g ref="char:EOLhyphen"/>eth day of <hi>June</hi> one thouſand ſix hundred fifty and ſeven, Twelve thouſand pounds by the Moneth for every Moneth, during that year.</p>
+            <p>For one year commencing the four and twentieth of <hi>June</hi> one thouſand ſix hundred fif<g ref="char:EOLhyphen"/>ty and ſeven, and ending the four and twenti<g ref="char:EOLhyphen"/>eth of <hi>June</hi> one thouſand ſix hundred fifty and eight, Thirteen thouſand pounds by the Mo<g ref="char:EOLhyphen"/>neth for every Moneth during that year, and
+<pb n="417" facs="tcp:169220:3"/>for one year, commencing the four and twenty<g ref="char:EOLhyphen"/>eth day of <hi>June,</hi> One thouſand ſix hundred fifty and eight, and ending the four and twentieth of <hi>June,</hi> One thouſand ſix hundred fifty and nine, fourteen thouſand pounds by the Moneth for every Moneth during that year, accounting e<g ref="char:EOLhyphen"/>very Moneth as they are in the Aſſeſſements in <hi>England.</hi>
+            </p>
+            <p>Provided, That this ſhall not extend to charge any Mannors, Lands, Tenements, Hereditaments, Rents, or Revenues belong<g ref="char:EOLhyphen"/>ing to any College, Hoſpital, Almes-houſe, or given to any charitable or pious uſe, towards the payment of the ſeveral ſumms and propor<g ref="char:EOLhyphen"/>tions aforeſaid, ſave onely for ſo much as the ſaid Mannors, Lands, Tenements, and Here<g ref="char:EOLhyphen"/>ditaments, are and ſhall be reſpectively worth by the year over and above the Rent and Reve<g ref="char:EOLhyphen"/>nue therefore reſpectively due and payable to the ſaid Colleges, Hoſpitals, Almes-houſes, Charitable or pious uſes, and every of them reſpectively.</p>
+            <p>And be it further Ordained by the Authori<g ref="char:EOLhyphen"/>ty aforeſaid, That from and after the four and twentieth day of <hi>June.</hi> One thouſand ſix hun<g ref="char:EOLhyphen"/>dred fifty and nine, all publique Aſſeſsments, Impoſitions and Taxations whatſoever, be impoſed, taxed and levyed proportionably from all the Inhabitants of <hi>England</hi> and <hi>Ireland,</hi> ſo that whatſoever ſhall be generally and in moſt Counties charged upon one hundred pounds by the year of Lands, or upon one hundred pounds perſonal Eſtate in <hi>England,</hi> the ſame and no more ſhall be charged upon one hundred pounds by the year of Lands, and upon one hundred pounds perſonal Eſtate in <hi>Ireland</hi> reſpectively,
+<pb n="418" facs="tcp:169220:4"/>and ſo in proportion for greater or leſſe ſums. And that therein ſuch manner and way of un<g ref="char:EOLhyphen"/>poſing, aſſeſſing and levying ſhall be directed and uſed, as ſhall for the time being be directed and uſed in <hi>England.</hi>
+            </p>
+            <p>Provided alwaies, and it is Ordained, That during the ſaid five years, no Lands unplant<g ref="char:EOLhyphen"/>ed, unimployed, or unmanured, ſhall (ouring their being unplanted, unimployed or unmanu<g ref="char:EOLhyphen"/>red) be charged to pay any rate or proportion to<g ref="char:EOLhyphen"/>wards the ſaid Monethly Tax and Aſſeſsment hereby aſcertained as aforeſaid, nor any other publique Tax or Aſſeſſement whatſoever. And that no Forrage, Billet-Money, Free quarter of any ſort, Carriage, Carriage-Money, Salt, Caddows, Small Ruggs, Bedding, Bed<g ref="char:EOLhyphen"/>cloths, or any payment or publique Tax. Bur<g ref="char:EOLhyphen"/>then or Charge whatſoever, for or to the uſe or in behalf of the State be layed, aſſeſſed or taken from any the Inhabitants, Owners or Occupiers of Lands in <hi>Ireland,</hi> but according to this Ordinance; And that no Officers or Souldiers quarters be taken, or had in private houſes without the conſent of the reſpective Inhabitants, but only when and where there is no other proviſion for them, and at ſuch time and in ſuch caſe every Officer and Souldier ſhall pay a reaſonable rate or value for the ſame; And in default thereof, the Captain or other Officer on the place, immediately com<g ref="char:EOLhyphen"/>manding the defaulter or Defaulters, ſhall pay the ſame, and is hereby impowred to retain or detain or defalk ſo much of the pay of every Souldier making default, as he ſhall pay for him</p>
+            <p>Provided, That it ſhall and may be lawful
+<pb n="419" facs="tcp:169220:4"/>to and for the Commiſſioners for the ſaid Aſſeſſ<g ref="char:EOLhyphen"/>ments when they ſhall ſee cauſe, to give Order and Directions to any Officers or Souldiers of the Army to quarter upon ſuch perſon or per<g ref="char:EOLhyphen"/>ſons as they ſhall find to be in arrear, or ſhall refuſe to pay their Aſſeſsments, untill ſuch per<g ref="char:EOLhyphen"/>ſon ſhall pay and ſatisfy the moneys due for the ſame.</p>
+            <p>And be it further Ordained and Eſtabliſhed by the Authority aforeſaid, That it ſhall and may be lawful to and for all and every the peo<g ref="char:EOLhyphen"/>ple of this Commonwealth, and of the Domini<g ref="char:EOLhyphen"/>ons thereunto belonging, to export out of <hi>Eng<g ref="char:EOLhyphen"/>land, Scotland, Wales,</hi> and every the Dominions of this Common-wealth into <hi>Ireland,</hi> Horſes, Mares, Cattle, Sheep, Houſholdſtuff, Corn, Victuals, Tools, Inſtruments, Materials neceſſary or uſeful for Planting, Building, Stocking, Imploying or Improving of Hou<g ref="char:EOLhyphen"/>ſes, Lands, or other Hereditaments in <hi>Ireland,</hi> and all other goods neceſſary or uſeful for any the purpoſes aforeſaid, at any time during the ſpace of ſeven years, to be accompted from the four and twentieth day of <hi>June</hi> one thouſand ſix hundred fifty and four, without paying any Cuſtome, Subſidy, Exciſe or Impoſt for the ſame in <hi>England</hi> or <hi>Ireland,</hi> upon ſufficient ſecu<g ref="char:EOLhyphen"/>rity to be given to the Officers of the reſpective Ports, in ſuch ſort as by former Laws is pro<g ref="char:EOLhyphen"/>vided, or hath been accuſtomed for thoſe that ſhip and carry goods from Port to Port in <hi>England.</hi>
+            </p>
+            <p>And be it further Ordained by the Authori<g ref="char:EOLhyphen"/>ty aforeſaid. That the ſame Cuſtom, Subſidy, and Impoſt, which is now payable in <hi>England,</hi> for any Commodity, Goods or Merchandize,
+<pb n="420" facs="tcp:169220:5"/>imported from, or exported into Forein parts, and the ſame Exciſe payable upon the Conſum<g ref="char:EOLhyphen"/>ption or uſe of any Commodity in <hi>England</hi> and no other, ſhall be from henceforth impoſed, collected, levyed and paid in <hi>Ireland</hi> according to the reſpective books of Rates for the Cu<g ref="char:EOLhyphen"/>ſtoms and Exciſe in <hi>England,</hi> paid by Engliſh men, as the ſame now are or hereafter ſhall be ſettled or altered by Act of Parlament.</p>
+            <p>And be it further Ordained by the Authority aforeſaid, That all and every the Quit-rents charged or reſerved upon the Lands granted or intended to the ſaid Adventurers and Soul<g ref="char:EOLhyphen"/>diers, by any former Acts or Ordinance, be remitted and diſcharged unto every the ſaid Adventurers and Souldiers, their reſpective Heirs and Aſſigns for five years next enſuing, from the four and twentieth of <hi>June,</hi> One thouſand ſix hundred fifty and four, and until the Aſſeſsments of <hi>Ireland</hi> be brought into an even proportion with the Aſſeſsments of <hi>Eng<g ref="char:EOLhyphen"/>land,</hi> as is before expreſſed, and after that time the Adventurers and Souldiers, their Heirs and Aſſigns ſhall pay all and every the Quit-rents expreſſed in one Act of Parlament, Entituled, <hi>An Act for the ſpeedy and effectual redu<g ref="char:EOLhyphen"/>cing of the Rebells in his Majeſties Kingdom of <hi>Ireland,</hi> to their due obedience to his Majeſtie, and the Crown of <hi>England,</hi>
+               </hi> according to the rates for Lands in the reſpective Provinces.</p>
+            <p>Provided That this ſhall not bind up or conclude the State from letting or diſpoſing ſuch Lands in <hi>Ireland,</hi> as do or ſhall belong or remain to them, upon ſuch terms as they ſhall judge advantageous to the Common-wealth.</p>
+            <p>And be it further Ordained by the Autho<g ref="char:EOLhyphen"/>rity
+<pb n="421" facs="tcp:169220:5"/>aforeſaid, That for and in conſideration of every Rent, Service, Charge or Duty, iſſu<g ref="char:EOLhyphen"/>ing, reſerved, charged, due or payable (on or out of the Lands or other the Hereditaments granted or intended to or for the ſaid Souldiers and Adventurers, or either of them) to any per<g ref="char:EOLhyphen"/>ſon or perſons, who have duly claimed the ſame, and according to this Ordinance ſhall have the ſame allowed and ordered and certified, Every Adventurer and Souldier, on or out of whoſe Lands or Hereditaments the ſame ſhall be iſſu<g ref="char:EOLhyphen"/>ing, reſerved, charged, due or payable, ſhall have ſet forth, and enjoy to him and his heirs for e<g ref="char:EOLhyphen"/>ver, ſo much Land in the County of <hi>Kildare,</hi> (according to the acts and values of Adventu<g ref="char:EOLhyphen"/>rers at ſuch meaſure as was allowed to ſuch perſon for his adventure, in ſatisfaction where<g ref="char:EOLhyphen"/>of ſuch Lands ſo charged were allotted unto them) as would have been produced or due for an adventure of ſuch certain ſum of money as the purchaſe or buying out of ſuch Rent, Service, Charge, or duty ſhall be computed to amount unto, Computation being thereof made and cer<g ref="char:EOLhyphen"/>tified by ſuch perſon and perſons as ſhall be au<g ref="char:EOLhyphen"/>thorized by his Highneſs the Lord Protector with the conſent of his Council.</p>
+            <p>And be it alſo Ordained by the Authority a<g ref="char:EOLhyphen"/>foreſaid, That all and every the ſaid Souldiers and Adventurers, their reſpective Heirs and Aſ<g ref="char:EOLhyphen"/>ſigns, be &amp; ſhall be for ever freed and diſcharged of and from all Exchequer, and other old Rents, Payments, and Arrears whatſoever, due or forfeited to the Publique; And their Lands for ever freed and diſcharged of and
+<pb n="422" facs="tcp:169220:6"/>from all diſtreſſes and ſeizures concerning the premiſſes.</p>
+            <p>And be it further Ordained by the Authori<g ref="char:EOLhyphen"/>ty aforeſaid, That every perſon, or the Heirs, Executors, or Aſſigns of ſuch perſon, who (upon the three and twentieth day of <hi>October,</hi> in the year one thouſand ſix hundred fourty and one) had any lawful Eſtace, Right, Title, Intereſt, Vſe, Poſſesſion, Reverſion, Re<g ref="char:EOLhyphen"/>mainder, Office, Annuity, Service Rent, Common Debt, Charge or Incumbrance in, to, or out of any Honours, Caſtles, Man<g ref="char:EOLhyphen"/>nors, Meſſuages, Lands, Tenements, Rent, Reverſions, Remainders, Vſes, Poſſesſions, Offices, Rights, Conditions, or any other Hereditaments of what name or quality ſoever they be (within the Counties of <hi>Eaſtmeath, Weſt<g ref="char:EOLhyphen"/>meath, Kings County, Queens County, Limerick, Tipperary, Waterford, Antrim, Down, Armagh,</hi> and <hi>Lowth,</hi> or any of them) forfeited or any waies deemed, veſted, adjudged, or taken to be in the actual and real poſſesſion of the late King <hi>Charles,</hi> his Heirs and, Succesſors upon or by force of any Act or Acts of Parlament, ſpecified in a Commisſion under the great Seal of <hi>England</hi> to <hi>Charles Fleetwood</hi> 
+               <abbr>Eſq</abbr> Lieute<g ref="char:EOLhyphen"/>tenant General of the Army in <hi>Ireland,</hi> and others, in the year one thouſand ſix hundred fifty and three, or into or out of any Chantry Lands, Lands or Tenements given to ſuperſtitious u<g ref="char:EOLhyphen"/>ſes, for maintenance of Popiſh Prieſts, and I<g ref="char:EOLhyphen"/>dolatrous Masſes, Trentalls, Dirges, and the like, or for maintenance of Lazars, or La<g ref="char:EOLhyphen"/>ſarous people, concealed in the posſesſion and occupation of ſuch perſon or perſons who upon
+<pb n="423" facs="tcp:169220:6"/>the fourteenth day of <hi>July</hi> one thouſand ſix hundred fourty and three, or at any time ſince, was or were in Rebellion, ſhall on or before the three and twentieth day of <hi>October</hi> one thouſand ſix hundred fifty and four, make the truth and reality of ſuch Eſtate Right, Title, Intereſt, Vſe, Poſſeſſion, Reverſion, Re<g ref="char:EOLhyphen"/>mainder, Office, Annuity, Service, Rent, common Debt, Charge or Incumbrance, ap<g ref="char:EOLhyphen"/>pear unto ſuch perſons as are appointed for re<g ref="char:EOLhyphen"/>ceiving and determining Claims in <hi>Ireland,</hi> and obtain from them an Order or Certificate of their allowance thereof, and ſhall cauſe the ſame to be ſent unto the Regiſter for forfeited Lands, and to be by him annexed to the Sur<g ref="char:EOLhyphen"/>vey of thoſe Lands or other the Premiſſes, touching which ſuch allowance ſhall be made: And in default thereof, the ſaid Eſtate, Right, Title, Intereſt, Vſe, Poſſeſſion, Reverſi<g ref="char:EOLhyphen"/>on, Remainder, Office, Annuity, Service, Rent, Common Debt, Charge, or Incom<g ref="char:EOLhyphen"/>brance, and every of them, ſhall be, and the ſame be hereby diſcharged, extinct, made nul and void.</p>
+            <p>And be it further Ordained and eſtabliſhed by the Authority aforeſaid, That no perſon ſhall incur either of the penalties for or upon Selling, Alyening, or for or upon Letting, Setting, or granting by Leaſe, any of the forfeited Houſes and Lands to any perſon or perſons comprehended in the Qualifications of the Act of Parlament Entituled, <hi>An Act for ſetling <hi>Ireland,</hi>
+               </hi> but ſuch onely who ſhall knowingly do the ſame, and that it ſhall be lawfull to all perſons to Let or Grant by
+<pb n="424" facs="tcp:169220:7"/>Leaſe, Lands to any perſons, who, now, or by future Directions or Declaration of State, ſhall be exempted from Tranſplantation into <hi>Connaght</hi> or <hi>Clare.</hi>
+            </p>
+            <p>And be it further Ordained and Eſtabliſh<g ref="char:EOLhyphen"/>ed by the Authority aforeſaid, That all and every City and County, or County of a City, City and Liberties, Town and County, half Barony, Territory, Franchiſe, Liberty, Pa<g ref="char:EOLhyphen"/>riſh, Town, Place or Land which is return<g ref="char:EOLhyphen"/>ed among the Baronies, or for or as a Barony (on the abſtract of the Surveys or eſtimate, made concerning the ten Counties appointed for the ſaid Souldiers &amp; Adventurers) ſhall, as to the Diviſion, Sub-diviſion, and enjoy<g ref="char:EOLhyphen"/>ment thereof amongſt the ſaid Souldiers and Adventurers and every of them reſpec<g ref="char:EOLhyphen"/>tively therein concerned, be deemed and taken to be as the ſame are returned in the Survey, although the ſame then were not a Barony, or were in another County, or were a County Franchiſe, or Liberty of it ſelf: And that all Counties, Baronies and Places returned or certified in or by miſwritten, miſtaken or wrong names, ſhall be enjoyed by thoſe whoſe Lots are or ſhall be on ſuch Coun<g ref="char:EOLhyphen"/>ties, Baronies or Places, as if they had been returned or certified by their true and pro<g ref="char:EOLhyphen"/>per names.</p>
+            <p>And be it further Ordained, If within ſix Moneths after publication of the late Act, for the ſpeedy and effectuall ſatisfaction of the Adventurers for Lands in <hi>Ireland,</hi> any Ca<g ref="char:EOLhyphen"/>ſtles, Cittadels, Forts, Bulwarks, Ram<g ref="char:EOLhyphen"/>pyers, Blockhouſes, or any places of defence
+<pb n="425" facs="tcp:169220:7"/>(in any of the Towns or Counties appointed for the ſaid Souldiers and Adventurers) were judged and declared by the perſon or per<g ref="char:EOLhyphen"/>ſons therein ſpecified, to be fit and meet to be reſerved for the publique ſafety of the Land, and the ſervice of the Common-wealth (not<g ref="char:EOLhyphen"/>withſtanding ſuch Iudgement and Declara<g ref="char:EOLhyphen"/>tion, and the Proviſo in the ſaid Act referring thereunto) the reſpective Adventurers and Souldiers, their ſeverall Heirs and Aſſigns, in whoſe Lots or Proportions any ſuch decla<g ref="char:EOLhyphen"/>red Caſtle, Cittadell, Fort, Bulwark, Ram<g ref="char:EOLhyphen"/>pier, Blockhouſe or other place of defence is or ſhall be, ſhall or may preſently, or any time hereafter, if the ſame be not now a Garriſon, enter upon, have and enjoy the ſame, to him, his Heirs and Aſſigns; And if the ſame now be a Garriſon, and ſhall hereafter be diſmant<g ref="char:EOLhyphen"/>led, or the Guard or Souldiers with-drawn from the ſame, then and from thenceforth, It ſhall and may be lawfull to and for ſuch perſon, his Heirs and Aſſignes, in whoſe Lot or Proportion the ſame is or ſhall be, to enter upon, have and enjoy the ſame to his and their own uſe for ever; And that upon the diſmant<g ref="char:EOLhyphen"/>ling any ſuch Caſtle, Cittadell, Fort, Bul<g ref="char:EOLhyphen"/>wark, Rampier, Blockhouſe, or place of de<g ref="char:EOLhyphen"/>fence, or the pulling or taking down any part thereof, ſuch perſon and perſons, in whoſe Lot or Lots the ſame ſhall be, ſhall have and enjoy all and ſingular the Iron, Lead, Tim<g ref="char:EOLhyphen"/>ber, Stones and materials thereof, to his and their own uſe, without paying any thing for the ſame: And that no perſon or perſons do or ſhall convert the ſame to any other uſe whatſoever.</p>
+            <p>
+               <pb n="426" facs="tcp:169220:8"/>And to the end ſuch godly and able Prea<g ref="char:EOLhyphen"/>chers as are already in <hi>Ireland,</hi> or ſhall be willing to tranſplant themſelves thither for ſpreading and publiſhing the knowledge of Chriſt in that Land, may have due encou<g ref="char:EOLhyphen"/>ragement therein, and a competent proviſion of maintenance, Be it further Ordained by the Authority aforeſaid, That there ſhall be allowed unto every ſuch perſon, as having firſt obtained from the Commiſſioners for ap<g ref="char:EOLhyphen"/>probation of publique Preachers ſuch teſtimo<g ref="char:EOLhyphen"/>nial as by the Ordinance, Entituled, <hi>An Ordi<g ref="char:EOLhyphen"/>nance appointing Commiſſioners for approbation of Publique Preachers,</hi> is directed, of his fitneſs and ſufficiency for that work, ſhall, within five years from and after the four and twentieth of <hi>June</hi> one thouſand ſix hundred fifty and four, tranſport himſelf into <hi>Ireland,</hi> the ſum of fifty pounds towards the charge of his tranſpor<g ref="char:EOLhyphen"/>tation to be paid unto every ſuch perſon out of the publique Treaſury. And that the Com<g ref="char:EOLhyphen"/>miſſioners for ordering and managing the Af<g ref="char:EOLhyphen"/>fairs of <hi>Ireland</hi> for the time being, and ſuch o<g ref="char:EOLhyphen"/>ther perſon and perſons as ſhall hereafter be deputed by His Highneſs for the Government of that Nation, ſhall and are hereby required to place every ſuch perſon in ſome ſuch Bene<g ref="char:EOLhyphen"/>fice as ſhall be in the gift of His Highneſs the Lord Procector, [or confirm any preſentation which ſhall be granted unto ſuch perſon by the Patron] to the value of one hundred pounds <hi>per annum,</hi> and in caſe the ſame ſhall not be of that value, then to grant unto ſuch perſon, ſuch yearly allowance by way of augmentati<g ref="char:EOLhyphen"/>on as ſhall make up the ſame to that value,
+<pb n="427" facs="tcp:169220:8"/>as alſo to grant ſuch further augmentation as they ſhall think fit, to any ſuch perſon, or to a<g ref="char:EOLhyphen"/>ny other Preachers now there (whoſe living doth not exceed the value of fifty pounds <hi>per annum</hi>) as they ſhall find worthy ſuch augmen<g ref="char:EOLhyphen"/>tation, not exceeding fifty pounds <hi>per annum;</hi> And all and every ſuch perſon and perſons ſo by them placed as aforeſaid, ſhall hold and en<g ref="char:EOLhyphen"/>j<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>y ſuch Benefice, and all the Houſes, Lands, Dues and Profits of and belonging thereun<g ref="char:EOLhyphen"/>to, and have ſuch and the like benefit and means for recovery thereof, as if ſuch perſon had been inſtituted and inducted according to the Laws in <hi>Ireland.</hi>
+            </p>
+         </div>
+      </body>
+      <back>
+         <div type="license">
+            <opener>
+               <date>
+                  <hi>Fryday June</hi> 23. 1654.</date>
+            </opener>
+            <p>ORdered by his Highneſs the Lord Protector, and His Council, That this Ordinance be forthwith Printed and Publiſhed.</p>
+            <closer>
+               <signed>
+                  <hi>Henry Scobell,</hi> Clerk of the Council.</signed>
+            </closer>
+         </div>
+      </back>
+   </text>
+</TEI>
